@@ -1,0 +1,20 @@
+thebigreasonReset
+An HTML5 CSS reset by Mark Eagleton
+http://thebigreason.com
+@thebigreason
+
+About
+
+This CSS reset removes default browser styling to all elements in the HTML5 spec. It is designed to be lean as possible while providing a clean slate. An optional separate typography style sheet is included that sets up basic presentation, as is a dummy HTML5 document for your testing pleasure.
+
+Usage
+
+It is recommended that you copy and paste the contents of the reset (and optionally the typography rules) into the top of your main style sheet, rather than importing them separately. This will minimize http requests that slow down website performance.
+
+Credit
+
+These style sheets are inspired by and/or loosely based on work by Eric Meyer, Richard Clark, Joshua Clayton, and Ben Borowski.
+Eric Meyer - http://meyerweb.com
+Richard Clark - http://richclarkdesign.com
+Joshua Clayton - http://www.jdclayton.com
+Ben Borowski - http://typeoneerror.com/

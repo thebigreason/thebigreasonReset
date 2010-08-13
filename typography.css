@@ -1,0 +1,41 @@
+/* Basic typography credit:http://jdclayton.com */
+html{font-size:100.01%;}
+body{font:300 75%/1.5em "Helvetica Neue",Helvetica,Arial,sans-serif;}
+h1{font-size:3em;line-height:1;margin-bottom:0.5em;}
+h2{font-size:2em;margin-bottom:0.75em;}
+h3{font-size:1.5em;line-height:1;margin-bottom:1em;}
+h4{font-size:1.2em;line-height:1.25;margin-bottom:1.25em;}
+h5{font-size:1em;font-weight:bold;margin-bottom:1.5em;}
+h6{font-size:1em;font-weight:bold;}
+strong,th{font-weight:bold;}
+p,figure{margin:0 0 1.5em;}
+ul,ol{margin:0 1.5em 1.5em 0;padding-left:3.333em;}
+dl{margin:0 0 1.5em 0;}
+dt{font-weight:bold;}
+table{margin-bottom:1.4em;width:100%;}
+th,td,caption{padding:4px 10px 4px 5px;}
+thead tr{border-bottom:1px solid #ddd;}
+tbody tr:nth-child(odd){background:#eee;}
+tbody th{border-right:1px solid #ddd;}
+tfoot tr{border-top:1px solid #ddd;}
+tfoot th{text-align:right;}
+blockquote{margin:1.5em;font-style:italic;}
+pre{margin:1.5em 0;white-space:pre;}
+a{text-decoration:underline;}
+a:link{color:#36c;}
+a:active{color:#c33;}
+a:focus{background:#ddd;}
+a:visited{color:#939;}
+a:hover{color:#039;}
+em,dfn{font-style:italic;}
+code{font:1em 'Andale Mono','Lucida Console',monospace;}
+mark{background:#ff9;color:#660;}
+del{text-decoration:line-through;}
+ins,abbr[title]{border-bottom:1px dotted #000;}
+abbr[title]{cursor:help;}
+input,textarea,select,button{border:1px solid #bbb;width:18em;}
+input:focus,textarea:focus,select:focus,button:focus{border-color:#666;}
+input,button,textarea{padding:0.25em;}
+textarea{line-height:1.5em;}
+input[type="checkbox"],input[type="radio"],input[type="submit"],button{width:auto;}
+input[type="checkbox"],input[type="radio"]{border:0;padding:0;}

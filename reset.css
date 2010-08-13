@@ -1,0 +1,10 @@
+/* HTML5 reset credit: http://typeoneerror.com, http://meyerweb.com */
+body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address,cite,code,del,dfn,em,img,ins,kbd,q,samp,small,strong,sub,sup,var,a,b,i,dl,dt,dd,ol,ul,li,form,fieldset,form,label,legend,input,button,textarea,select,option,optgroup,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,figcaption,figure,footer,header,hgroup,menu,nav,section,summary,time,mark,audio,video{background:transparent;border:0;color:inherit;font-family:inherit;font-size:100%;font-style:normal;font-weight:normal;margin:0;outline:0;padding:0;text-align:left;text-decoration:none;}
+article,aside,canvas,command,datalist,details,embed,figcaption,figure,footer,header,hgroup,keygen,meter,nav,output,ruby,section,source{display:block;}
+audio,video,mark,rp,rt,summary,time,progress{display:inline}
+body{background:#fff;line-height:1;}
+table{border-collapse:collapse;border-spacing:0;}
+optgroup,option{background:#fff;color:#000;}
+a:focus{outline:0;}
+q:before,q:after{content:"";}
+sup,sub{vertical-align:baseline;}
