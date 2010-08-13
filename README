@@ -5,7 +5,7 @@ http://thebigreason.com
 
 About
 
-This CSS reset removes default browser styling to all elements in the HTML5 spec. It is designed to be lean as possible while providing a clean slate. An optional separate typography style sheet is included that sets up basic presentation, as is a dummy HTML5 document for your testing pleasure.
+This CSS reset removes default browser styling to all elements in the HTML5 spec. It is designed to be as lean as possible while providing you with a clean slate to start from. An optional separate typography style sheet is included that sets up basic presentation, as is a dummy HTML5 document for your testing pleasure.
 
 Usage
 
